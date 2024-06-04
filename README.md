@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @geraldbahati
-- 👀 I’m interested in mobile application dev. and backend development
-- 🌱 I’m currently learning Django and flutter
+- 👀 I’m interested in mobile application development, backend development and machine learning engineering
 - 💞️ I’m looking to collaborate on mobile application dev. and backend development
 - 📫 How to reach me email: bahatigerald0@gmail.com instagram: @gerald__bahati
 
