@@ -119,12 +119,6 @@ Based in Nairobi, Kenya. Currently architecting e-commerce infrastructure on Clo
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="98%" alt="Profile Details" src="profile-summary-card-output/github/0-profile-details.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
   <img width="55%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
