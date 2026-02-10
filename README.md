@@ -118,9 +118,6 @@ Based in Nairobi, Kenya. Currently architecting e-commerce infrastructure on Clo
 
 <div align="center">
 
-### GitHub Stats
-
-<!-- Generated daily by GitHub Actions — always loads -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg" />
@@ -128,41 +125,9 @@ Based in Nairobi, Kenya. Currently architecting e-commerce infrastructure on Clo
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg" />
-  <img width="49%" alt="Stats" src="profile-summary-card-output/github/3-stats.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/4-productive-time.svg" />
-  <img width="49%" alt="Productive Time" src="profile-summary-card-output/github/4-productive-time.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="49%" alt="Repos per Language" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="49%" alt="Most Commit Language" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-</picture>
-
-<br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
   <img width="55%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=geraldbahati&theme=github-dark&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=geraldbahati&theme=github-light&hide_border=true&area=true" />
-  <img width="98%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geraldbahati&hide_border=true&area=true" />
 </picture>
 
 </div>
