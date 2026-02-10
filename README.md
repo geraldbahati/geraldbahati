@@ -120,23 +120,41 @@ Based in Nairobi, Kenya. Currently architecting e-commerce infrastructure on Clo
 
 ### GitHub Stats
 
+<!-- Generated daily by GitHub Actions — always loads -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=geraldbahati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=geraldbahati&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=geraldbahati&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="98%" alt="Profile Details" src="profile-summary-card-output/github/0-profile-details.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg" />
+  <img width="49%" alt="Stats" src="profile-summary-card-output/github/3-stats.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/4-productive-time.svg" />
+  <img width="49%" alt="Productive Time" src="profile-summary-card-output/github/4-productive-time.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="49%" alt="Repos per Language" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="49%" alt="Most Commit Language" src="profile-summary-card-output/github/2-most-commit-language.svg" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldbahati&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldbahati&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldbahati&layout=compact&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
+  <img width="55%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldbahati&hide_border=true" />
 </picture>
 
 <br />
